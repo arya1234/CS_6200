@@ -1,0 +1,340 @@
+{
+   "queries": [
+      {
+         "id": 1,
+         "query": "Quantum computing algorithms overview",
+         "narrative": "Relevant documents must contain information about various algorithms used in quantum computing. These algorithms can run on a quantum computer. Documents on that do not mention any of the quantum algorithms like Deutsch–Jozsa algorithm, Bernstein-Vazirani algorithm, Simon’s algorithm, Quantum phase estimation algorithm, Shor’s algorithm, Grover’s algorithm, etc. should be considered irrelevant.",
+         "documents": [
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 4},
+            {"title": "Algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 0},
+            {"title": "Shor’s algorithm", "url": "https://en.wikipedia.org/wiki/Grover%27s_algorithm", "relevance_score": 3},
+            {"title": "Grover’s algorithm", "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm", "relevance_score": 3},
+            {"title": "Deutsch–Jozsa algorithm", "url": "https://en.wikipedia.org/wiki/Deutsch%E2%80%93Jozsa_algorithm", "relevance_score": 3},
+            {"title": "Quantum computing", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 2},
+            {"title": "Quantum mechanics", "url": "https://en.wikipedia.org/wiki/Quantum_mechanics", "relevance_score": 0}
+         ]
+      },
+      {
+         "id": 2,
+         "query": "Shor’s algorithm in quantum computing",
+         "narrative": "The user is interested in gaining a comprehensive understanding of Shor’s algorithm, a key component of quantum computing. The focus should be on the principles behind Shor’s algorithm, its applications, and implications in the field of quantum computing. Relevant information may include its significance in integer factorization, its potential impact on cryptography, and any recent advancements or variations.",
+         "documents": [
+            {"title": "Shor’s algorithm", "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm", "relevance_score": 4},
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 3},
+            {"title": "Quantum computing", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 2},
+            {"title": "Quantum mechanics", "url": "https://en.wikipedia.org/wiki/Quantum_mechanics", "relevance_score": 0},
+            {"title": "Quantum cryptography", "url": "https://en.wikipedia.org/wiki/Quantum_cryptography", "relevance_score": 0},
+            {"title": "Peter Shore", "url": "https://en.wikipedia.org/wiki/Peter_Shor", "relevance_score": 2},
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 3},
+            {"title": "Grover's algorithm", "url": "https://en.wikipedia.org/wiki/Grover%27s_algorithm", "relevance_score": 1}
+         ]
+      },
+      {
+         "id": 3,
+         "query": "Symmetric Key Cryptography",
+         "narrative": "Relevant documents should include comprehensive information on symmetric key cryptography. The focus should encompass the principles behind symmetric key algorithms, their applications, and potential vulnerabilities. Relevant details may include popular symmetric key algorithms, key management strategies, and real-world use cases.",
+         "documents": [
+            {"title": "Symmetric-key algorithm", "url": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", "relevance_score": 4},
+            {"title": "Advanced Encryption Standard", "url": "https://en.wikipedia.org/wiki/Advanced_Encryption_Standard", "relevance_score": 4},
+            {"title": "Data Encryption Standard", "url": "https://en.wikipedia.org/wiki/Data_Encryption_Standard", "relevance_score": 4},
+            {"title": "Cryptography", "url": "https://en.wikipedia.org/wiki/Cryptography", "relevance_score": 2},
+            {"title": "Public-key cryptography", "url": "https://en.wikipedia.org/wiki/Public-key_cryptography", "relevance_score": 1},
+            {"title": "Quantum cryptography", "url": "https://en.wikipedia.org/wiki/Quantum_cryptography", "relevance_score": 3},
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 0},
+            {"title": "Quantum computing", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 2}
+         ]
+      },
+      {
+         "id": 4,
+         "query": "Different types of cryptographic algorithms",
+         "narrative": "The user is interested in gaining knowledge about various types of cryptographic algorithms. The results should encompass a range of cryptographic algorithms, including symmetric and asymmetric key algorithms, hash functions, and digital signatures. Relevant documents should cover the principles, applications, and strengths of each type of algorithm.",
+         "documents": [
+            {"title": "Cryptography", "url": "https://en.wikipedia.org/wiki/Cryptography", "relevance_score": 4},
+            {"title": "Quantum cryptography", "url": "https://en.wikipedia.org/wiki/Quantum_cryptography", "relevance_score": 1},
+            {"title": "Symmetric-key algorithm", "url": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", "relevance_score": 4},
+            {"title": "Public-key cryptography", "url": "https://en.wikipedia.org/wiki/Public-key_cryptography", "relevance_score": 4},
+            {"title": "Cryptanalysis", "url": "https://en.wikipedia.org/wiki/Cryptanalysis", "relevance_score": 2},
+            {"title": "Hash function", "url": "https://en.wikipedia.org/wiki/Hash_function", "relevance_score": 4},
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 0},
+            {"title": "Quantum computing", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 0}
+         ]
+      },
+      {
+         "id": 5,
+         "query": "Effects of quantum computing on cryptography",
+         "narrative": "Relevant documents should include the effects of quantum computing on traditional cryptographic methods. The narrative should cover the potential vulnerabilities introduced by quantum algorithms, such as Shor’s algorithm, to commonly used encryption schemes. Additionally, documents may show how to withstand quantum attacks.",
+         "documents": [
+            {"title": "Quantum algorithm", "url": "https://en.wikipedia.org/wiki/Quantum_algorithm", "relevance_score": 0},
+            {"title": "Quantum computing", "url": "https://en.wikipedia.org/wiki/Quantum_computing", "relevance_score": 2},
+            {"title": "Quantum cryptography", "url": "https://en.wikipedia.org/wiki/Quantum_cryptography", "relevance_score": 4},
+            {"title": "Cryptography", "url": "https://en.wikipedia.org/wiki/Cryptography", "relevance_score": 3},
+            {"title": "Symmetric-key algorithm", "url": "https://en.wikipedia.org/wiki/Symmetric-key_algorithm", "relevance_score": 0},
+            {"title": "Public-key cryptography", "url": "https://en.wikipedia.org/wiki/Public-key_cryptography", "relevance_score": 0},
+            {"title": "Hash function", "url": "https://en.wikipedia.org/wiki/Hash_function", "relevance_score": 0},
+            {"title": "Cryptanalysis", "url": "https://en.wikipedia.org/wiki/Cryptanalysis", "relevance_score": 2},
+            {"title": "Post-quantum cryptography", "url": "https://en.wikipedia.org/wiki/Post-quantum_cryptography", "relevance_score": 4},
+            {"title": "Quantum key distribution", "url": "https://en.wikipedia.org/wiki/Quantum_key_distribution", "relevance_score": 4},
+            {"title": "Shor’s algorithm", "url": "https://en.wikipedia.org/wiki/Shor%27s_algorithm", "relevance_score": 3}
+         ]
+      },
+      {
+         "id": 6,
+         "query": "Cars 2011 Movie",
+         "narrative": "The user is specifically searching for information about the 2011 installment in the Cars movie franchise, exploring details about the characters, plot, and unique elements introduced in this particular release.",
+         "documents": [
+            {"title": "Cars 2", "url": "https://en.wikipedia.org/wiki/Cars_2", "relevance_score":4},
+            {"title": "Cars (film)", "url": "https://en.wikipedia.org/wiki/Cars_(film)", "relevance_score":2},
+            {"title": "Jaguar Cars", "url": "https://en.wikipedia.org/wiki/Jaguar_Cars", "relevance_score":0},
+            {"title": "Cars (franchise)", "url": "https://en.wikipedia.org/wiki/Cars_(franchise)", "relevance_score":3},
+            {"title": "Jaguar Cars", "url": "https://en.wikipedia.org/wiki/Jaguar_Cars", "relevance_score":0},
+            {"title": "Cars", "url": "https://en.wikipedia.org/wiki/Cars", "relevance_score":0},
+            {"title": "Cars 3", "url": "https://en.wikipedia.org/wiki/Cars_3", "relevance_score":2}
+         ]
+      },
+      {
+         "id": 7,
+         "query": "Solar power efficiency",
+         "narrative": "The user is keen on delving into the intricacies of solar power efficiency, seeking in-depth insights into the latest technological advancements, breakthroughs, and emerging trends in maximizing the conversion of sunlight into electricity.",
+         "documents": [
+            {"title": "Solar Cell Efficiency", "url": "https://en.wikipedia.org/wiki/Solar-cell_efficiency", "relevance_score":4},
+            {"title": "Shockley Queisser Limit", "url": "https://en.wikipedia.org/wiki/Shockley%E2%80%93Queisser_limit", "relevance_score":2},
+            {"title": "Power", "url": "https://en.wikipedia.org/wiki/Power", "relevance_score":0},
+            {"title": "Solar cell", "url": "https://en.wikipedia.org/wiki/Solar_cell", "relevance_score":3},
+            {"title": "Solar eclipse", "url": "https://en.wikipedia.org/wiki/Solar_eclipse", "relevance_score":0},
+            {"title": "Solar energy", "url": "https://en.wikipedia.org/wiki/Solar_energy", "relevance_score":2},
+            {"title": "Solar power", "url": "https://en.wikipedia.org/wiki/Solar_power", "relevance_score":3},
+            {"title": "Power (Physics)", "url": "https://en.wikipedia.org/wiki/Power_(physics)", "relevance_score":0}
+            
+         ]
+      },
+      {
+         "id": 8,
+         "query": "Energy storage solutions",
+         "narrative": "The user is actively seeking comprehensive information on modern energy storage solutions, with a particular interest in understanding the efficiency, sustainability, and diverse applications of advanced technologies such as batteries, pumped hydro storage, and other innovative methods.",
+         "documents": [
+            {"title": "Energy", "url": "https://en.wikipedia.org/wiki/Energy", "relevance_score":0},
+            {"title": "Energy storage", "url": "https://en.wikipedia.org/wiki/Energy_storage", "relevance_score":3},
+            {"title": "Grid energy storage", "url": "https://en.wikipedia.org/wiki/Grid_energy_storage", "relevance_score":4},
+            {"title": "Storage room", "url": "https://en.wikipedia.org/wiki/Storage room", "relevance_score":0},       
+            {"title": "Energy storage as a service", "url": "https://en.wikipedia.org/wiki/Energy_storage_as_a_service", "relevance_score":1},
+            {"title": "Solution (Chemistry)", "url": "https://en.wikipedia.org/wiki/Solution_(chemistry)", "relevance_score":0},
+            {"title": "Storage room", "url": "https://en.wikipedia.org/wiki/Storage room", "relevance_score":0},   
+            {"title": "Thermal energy storage", "url": "https://en.wikipedia.org/wiki/Thermal_energy_storage", "relevance_score":3}
+         ]
+      },
+      {
+         "id": 9,
+         "query": "Lists of Presidents in US",
+         "narrative": "The user is looking for a straightforward and easily accessible list of U.S. presidents, intending to gain a quick overview of the individuals who have held the highest office in the country, including their respective terms in office.",
+         "documents": [
+            {"title": "List of presidents of the United States", "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States", "relevance_score":4},
+            {"title": "President", "url": "https://en.wikipedia.org/wiki/President", "relevance_score":0},
+            {"title": "List of Presidents of the United States by education", "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_education", "relevance_score":1},
+            {"title": "List of states and territories of the United States", "url": "https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States", "relevance_score":0},
+            {"title": "List of Presidents of the United States by Home State", "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_home_state", "relevance_score":1},
+            {"title": "United States", "url": "https://en.wikipedia.org/wiki/United_States", "relevance_score":0},
+            {"title": "List of Presidents of the United States by Other Offices Held", "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States_by_other_offices_held", "relevance_score":3}
+         ]
+      },
+      {
+         "id": 10,
+         "query": "First American President",
+         "narrative": "The user is interested in a detailed exploration of the first American president, George Washington, including insights into his leadership during pivotal moments such as the Revolutionary War, and the enduring impact of his presidency on the foundations of the United States.",
+         "documents": [
+            {"title": "List of presidents of the United States", "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States", "relevance_score":2},
+            {"title": "George Washington", "url": "https://en.wikipedia.org/wiki/George_Washington", "relevance_score":4},
+            {"title": "United States", "url": "https://en.wikipedia.org/wiki/United_States", "relevance_score":0},
+            {"title": "List of Presidents of the United States Presidential firsts", "url": "https://en.wikipedia.org/wiki/List_of_United_States_presidential_firsts", "relevance_score":3},
+            {"title": "First President", "url": "https://en.wikipedia.org/wiki/First_President", "relevance_score":0},
+            {"title": "Citizenship of the United States", "url": "https://en.wikipedia.org/wiki/Citizenship_of_the_United_States", "relevance_score":0},
+            {"title": "Franklin D Roosevelt", "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt", "relevance_score":2}
+         ]
+      },
+      {
+         "id": 11,
+         "query": "Impact of T20 cricket on other formats",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the impact of T20 cricket on other formats of the game. The focus should be on the principles behind T20 cricket, its history, and implications in the field of cricket. Relevant information may include its significance in the game, its potential impact on other formats, and any recent advancements or variations. Documents that do not mention anything about T20 cricket should be considered irrelevant.",
+         "documents": [
+            {"title": "Twenty20", "url": "https://en.wikipedia.org/wiki/Twenty20", "relevance_score":4},
+            {"title": "Cricket", "url": "https://en.wikipedia.org/wiki/Cricket", "relevance_score":3},
+            {"title": "Cricket (insect)", "url": "https://en.wikipedia.org/wiki/Cricket_(insect)", "relevance_score":0},
+            {"title": "Forms of Cricket", "url": "https://en.wikipedia.org/wiki/Forms_of_cricket", "relevance_score":2},
+            {"title": "Limited overs cricket", "url": "https://en.wikipedia.org/wiki/Limited_overs_cricket", "relevance_score":1}
+         ]
+      },
+      {
+         "id": 12,
+         "query": "History of cricket",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the history of cricket. Relevant information should cover the inception of the game, iconic moments, legendary players, and the evolution of the game over the years. Documents that do not include any information about the game of cricket should be considered irrelevant.",
+         "documents": [
+            {"title": "Twenty20", "url": "https://en.wikipedia.org/wiki/Twenty20", "relevance_score":1},
+            {"title": "Cricket", "url": "https://en.wikipedia.org/wiki/Cricket", "relevance_score":3},
+            {"title": "History of cricket", "url": "https://en.wikipedia.org/wiki/History_of_cricket", "relevance_score":4},
+            {"title": "Forms of Cricket", "url": "https://en.wikipedia.org/wiki/Forms_of_cricket", "relevance_score":2},
+            {"title": "Limited overs cricket", "url": "https://en.wikipedia.org/wiki/Limited_overs_cricket", "relevance_score":1},
+            {"title": "History of women's cricket", "url": "https://en.wikipedia.org/wiki/History_of_women%27s_cricket", "relevance_score":4}
+         ]
+      },
+      {
+         "id": 13,
+         "query": "History of Football World Cup",
+         "narrative": "Explore documents providing a detailed historical account of the Football World Cup. Relevant information should cover the inception of the tournament, iconic moments, legendary players, and the evolution of the World Cup over the years. Documents that do not include any information about the football World Cup should be considered irrelevant.",
+         "documents": [
+            {"title": "Twenty20", "url": "https://en.wikipedia.org/wiki/Twenty20", "relevance_score":0},
+            {"title": "FIFA World Cup", "url": "https://en.wikipedia.org/wiki/FIFA_World_Cup", "relevance_score":4},
+            {"title": "Stadium", "url": "https://en.wikipedia.org/wiki/Stadium", "relevance_score":0},
+            {"title": "List of FIFA World Cup finals", "url": "https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals", "relevance_score": 3},
+            {"title": "History of the FIFA World Cup", "url": "https://en.wikipedia.org/wiki/History_of_the_FIFA_World_Cup", "relevance_score":4},
+            {"title": "Association football", "url": "https://en.wikipedia.org/wiki/Association_football", "relevance_score": 2}
+         ]
+      },
+      {
+         "id": 14,
+         "query": "Rules and regulations of football",
+         "narrative": "Find documents explaining the basic rules and regulations of football. Relevant information should cover aspects such as scoring, fouls, and offside rules. Documents that just contain information about the football and do not mention anything about the rules and regulations should be considered irrelevant.",
+         "documents": [
+            {"title": "Laws of the Game (association football)", "url": "https://en.wikipedia.org/wiki/Laws_of_the_Game_(association_football)", "relevance_score":4},
+            {"title": "American football rules", "url": "https://en.wikipedia.org/wiki/American_football_rules", "relevance_score":4},
+            {"title": "Association football", "url": "https://en.wikipedia.org/wiki/Association_football", "relevance_score": 2},
+            {"title": "History of the FIFA World Cup", "url": "https://en.wikipedia.org/wiki/History_of_the_FIFA_World_Cup", "relevance_score":0},
+            {"title": "Regulation of sport", "url": "https://en.wikipedia.org/wiki/Regulation_of_sport", "relevance_score": 1}
+         ]
+      },
+      {
+         "id": 15,
+         "query": "Basics of Kinetic Energy",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the basics of kinetic energy. Relevant information should cover the fundational aspects of kinetic energy, understanding its definition, calculation, and its role in physics.Documents that do not include any information about kinetic energy should be considered irrelevant.",
+         "documents": [
+            {"title": "Energy", "url": "https://en.wikipedia.org/wiki/Energy", "relevance_score":1},
+            {"title": "Kinetic Energy", "url": "https://en.wikipedia.org/wiki/Kinetic_energy", "relevance_score":4},
+            {"title": "Classical mechanics", "url": "https://en.wikipedia.org/wiki/Classical_mechanics", "relevance_score": 3},
+            {"title": "Solar energy", "url": "https://en.wikipedia.org/wiki/Solar_energy", "relevance_score":0},
+            {"title": "Energy storage", "url": "https://en.wikipedia.org/wiki/Energy_storage", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 16,
+         "query": "Kinetic Energy vs. Potential Energy",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the difference between kinetic energy and potential energy. Relevant information should cover the fundational aspects of kinetic energy and potential energy, understanding their definitions, calculations, and their role in physics.Documents that do not include any information about kinetic energy and potential energy should be considered irrelevant.",
+         "documents": [
+            {"title": "Energy", "url": "https://en.wikipedia.org/wiki/Energy", "relevance_score":1},
+            {"title": "Kinetic Energy", "url": "https://en.wikipedia.org/wiki/Kinetic_energy", "relevance_score":4},
+            {"title": "Potential Energy", "url": "https://en.wikipedia.org/wiki/Potential_energy", "relevance_score":4},
+            {"title": "Classical mechanics", "url": "https://en.wikipedia.org/wiki/Classical_mechanics", "relevance_score": 3},
+            {"title": "Solar energy", "url": "https://en.wikipedia.org/wiki/Solar_energy", "relevance_score":0},
+            {"title": "Chemical energy", "url": "https://en.wikipedia.org/wiki/Chemical_energy", "relevance_score":0},
+            {"title": "Energy storage", "url": "https://en.wikipedia.org/wiki/Energy_storage", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 17,
+         "query": "History of Cinema",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the history of cinema. Relevant information should cover the inception of cinema, iconic moments, legendary actors, and the evolution of cinema over the years. Documents that do not include any information about cinema should be considered irrelevant.",
+         "documents": [
+            {"title": "History of film", "url": "https://en.wikipedia.org/wiki/History_of_film", "relevance_score":4},
+            {"title": "Visual arts", "url": "https://en.wikipedia.org/wiki/Visual_arts", "relevance_score":0},
+            {"title": "History of film technology", "url": "https://en.wikipedia.org/wiki/History_of_film_technology", "relevance_score":3},
+            {"title": "Filmmaking", "url": "https://en.wikipedia.org/wiki/Filmmaking", "relevance_score": 1},
+            {"title": "Film", "url": "https://en.wikipedia.org/wiki/Film", "relevance_score":2},
+            {"title": "Cars (film)", "url": "https://en.wikipedia.org/wiki/Cars_(film)", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 18,
+         "query": "Impact of Streaming Services on the Film Industry",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the impact of streaming services on the film industry. Relevant documents should cover the principles behind streaming services, its evolution, and implications in the field of film industry. Relevant information may include its significance in the film industry, its potential impact on the film industry, and any recent advancements or variations. Documents that do not mention anything about streaming services and film industry should be considered irrelevant.",
+         "documents": [
+            {"title": "History of film", "url": "https://en.wikipedia.org/wiki/History_of_film", "relevance_score":0},
+            {"title": "Visual arts", "url": "https://en.wikipedia.org/wiki/Visual_arts", "relevance_score":0},
+            {"title": "Streaming television", "url": "https://en.wikipedia.org/wiki/Streaming_television", "relevance_score": 3},
+            {"title": "Film", "url": "https://en.wikipedia.org/wiki/Film", "relevance_score":2},
+            {"title": "Streaming media", "url": "https://en.wikipedia.org/wiki/Streaming_media", "relevance_score":4}
+         ]
+      },
+      {
+         "id": 19,
+         "query": "Football vs Soccer",
+         "narrative": "Find documents that explain the difference between football and soccer. Relevant information should cover aspects such as the history of the two sports, the naming, the rules and regulations, or the differences in the gameplay. Documents that does not contain information about football and soccer and do not mention anything about the differences between the two sports should be considered irrelevant.",
+         "documents": [
+            {"title": "Names for association football", "url": "https://en.wikipedia.org/wiki/Names_for_association_football", "relevance_score":4},
+            {"title": "Association football", "url": "https://en.wikipedia.org/wiki/Association_football", "relevance_score":4},
+            {"title": "Laws of the Game (association football)", "url": "https://en.wikipedia.org/wiki/Laws_of_the_Game_(association_football)", "relevance_score": 2},
+            {"title": "History of the FIFA World Cup", "url": "https://en.wikipedia.org/wiki/History_of_the_FIFA_World_Cup", "relevance_score":0},
+            {"title": "History of cricket", "url": "https://en.wikipedia.org/wiki/History_of_cricket", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 20,
+         "query": "Evolution of electric cars",
+         "narrative": "The user is interested in gaining a comprehensive understanding of the evolution of electric cars. Relevant information should cover the inception of electric cars, the evolution of electric cars over the years, and the impact of electric cars on the environment. Documents that do not include any information about electric cars should be considered irrelevant.",
+         "documents": [
+            {"title": "Electric car", "url": "https://en.wikipedia.org/wiki/Electric_car", "relevance_score":4},
+            {"title": "Electric vehicle", "url": "https://en.wikipedia.org/wiki/Electric_vehicle", "relevance_score":3},
+            {"title": "Battery electric vehicle", "url": "https://en.wikipedia.org/wiki/Battery_electric_vehicle", "relevance_score": 4},
+            {"title": "Car", "url": "https://en.wikipedia.org/wiki/Car", "relevance_score":2},
+            {"title": "Jaguar Cars", "url": "https://en.wikipedia.org/wiki/Jaguar_Cars", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 21,
+         "query": "Evolution of Social Media Platforms",
+         "narrative": "Explore the chronological evolution of social media platforms, highlighting key milestones, innovations, and the impact of these platforms on communication. Relevant information should cover the inception of social media platforms, the evolution of social media platforms over the years, and the impact of social media platforms on communication. Documents that do not include any information about social media platforms should be considered irrelevant.",
+         "documents": [
+            {"title": "Electric car", "url": "https://en.wikipedia.org/wiki/Electric_car", "relevance_score":0},
+            {"title": "Social media", "url": "https://en.wikipedia.org/wiki/Social_media", "relevance_score":4},
+            {"title": "Virtual community", "url": "https://en.wikipedia.org/wiki/Virtual_community", "relevance_score": 1},
+            {"title": "Content creation", "url": "https://en.wikipedia.org/wiki/Content_creation", "relevance_score":2},
+            {"title": "Social network", "url": "https://en.wikipedia.org/wiki/Social_network", "relevance_score":3}
+         ]
+      },
+      {
+         "id": 22,
+         "query": "Social media for marketing",
+         "narrative": "The user is interested in gaining knowledge of the use of social media for marketing. Relevant information should cover the way in which social media is used for marketing, the impact of social media on marketing, and the evolution of social media marketing over the years.",
+         "documents": [
+            {"title": "Social media marketing", "url": "https://en.wikipedia.org/wiki/Social_media_marketing", "relevance_score":4},
+            {"title": "Social media", "url": "https://en.wikipedia.org/wiki/Social_media", "relevance_score":4},
+            {"title": "Virtual community", "url": "https://en.wikipedia.org/wiki/Virtual_community", "relevance_score": 0},
+            {"title": "Content creation", "url": "https://en.wikipedia.org/wiki/Content_creation", "relevance_score":1},
+            {"title": "Social network", "url": "https://en.wikipedia.org/wiki/Social_network", "relevance_score":0},
+            {"title": "Digital marketing ", "url": "https://en.wikipedia.org/wiki/Digital_marketing", "relevance_score":3}
+         ]
+      },
+      {
+         "id": 23,
+         "query": "Basics of stock market",
+         "narrative": "The user is looking for basic information such as fundamentals, understanding the stock market, and how it works. Relevant information should cover the basics of the stock market, including concepts like stocks, dividends, and market indices. Documents that do not include any information about the stock market should be considered irrelevant.",
+         "documents": [
+            {"title": "Stock market", "url": "https://en.wikipedia.org/wiki/Stock_market", "relevance_score":4},
+            {"title": "Stock", "url": "https://en.wikipedia.org/wiki/Stock", "relevance_score":4},
+            {"title": "Dividend", "url": "https://en.wikipedia.org/wiki/Dividend", "relevance_score": 3},
+            {"title": "Stock exchange", "url": "https://en.wikipedia.org/wiki/Stock_exchange", "relevance_score":2},
+            {"title": "Social network", "url": "https://en.wikipedia.org/wiki/Social_network", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 24,
+         "query": "Importance of credit score",
+         "narrative": "The user want to know about the significance of credit scores, factors that influence them, and tips for maintaining a good credit standing. Relevant information should cover the basics of credit scores, including concepts like credit score, credit report, and credit history.",
+         "documents": [
+            {"title": "Credit score", "url": "https://en.wikipedia.org/wiki/Credit_score", "relevance_score":4},
+            {"title": "Credit history", "url": "https://en.wikipedia.org/wiki/Credit_history", "relevance_score":4},
+            {"title": "Credit rating", "url": "https://en.wikipedia.org/wiki/Credit_rating", "relevance_score": 2},
+            {"title": "Credit risk", "url": "https://en.wikipedia.org/wiki/Credit_risk", "relevance_score":1},
+            {"title": "Social network", "url": "https://en.wikipedia.org/wiki/Social_network", "relevance_score":0}
+         ]
+      },
+      {
+         "id": 25,
+         "query": "Personal Finance Tips",
+         "narrative": "The user want to explore documents that discover practical tips for managing personal finances, budgeting, and building wealth. Relevant information should cover the basics of personal finance, including concepts like budgeting, saving, and investing.",
+         "documents": [
+            {"title": "Personal finance", "url": "https://en.wikipedia.org/wiki/Personal_finance", "relevance_score":4},
+            {"title": "Budget", "url": "https://en.wikipedia.org/wiki/Budget", "relevance_score":2},
+            {"title": "Financial management", "url": "https://en.wikipedia.org/wiki/Financial_management", "relevance_score": 2},
+            {"title": "Credit risk", "url": "https://en.wikipedia.org/wiki/Credit_risk", "relevance_score":0},
+            {"title": "Social network", "url": "https://en.wikipedia.org/wiki/Social_network", "relevance_score":0}
+         ]
+      }
+   ]
+}
