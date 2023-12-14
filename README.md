@@ -51,6 +51,3 @@ pip install json requests beautifulsoup4 nltk rank_bm25 numpy
 
 The evaluation results for each summarization model and retrieval model combination are provided in the notebook. Metrics such as MAP, MRR, and DCG are reported for each model.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
