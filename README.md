@@ -13,7 +13,6 @@ This repository contains code for evaluating retrieval models on a summarized te
 
 ## Code Files
 
-- **evaluator.py**: Python script for evaluating retrieval models.
 - **query_likelihood_model.py**: Implementation of the Query Likelihood model.
 - **bm25_model.py**: Implementation of the BM25 model.
 - **summarization_evaluation.ipynb**: Jupyter notebook containing the evaluation process.
@@ -47,7 +46,6 @@ pip install json requests beautifulsoup4 nltk rank_bm25 numpy
 
 3. Run the Jupyter notebook `summarization_evaluation.ipynb` for detailed evaluation and analysis.
 
-4. Modify the code in `evaluator.py` and model implementations if needed for further experimentation.
 
 ## Results
 
